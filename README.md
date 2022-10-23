@@ -1,5 +1,7 @@
 ### Appunti
 
+Esercizio svolto da Giulia Pascale e Gabriele Benedetti @Betto94
+
 Tutorial link: https://wiki.eclipse.org/ATL/Tutorials_-_Create_a_simple_ATL_transformation#The_ATL_transformation_code
 
 Trasformiamo un modello in un altro, ma per farlo ci occorre i metamodelli di entrambi affinché possiamo fare una sorta di traduzione (ma è più corretto dire trasformazione)..

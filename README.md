@@ -1,4 +1,4 @@
-### Appunti
+## Appunti
 
 Esercizio svolto da Giulia Pascale e Gabriele Benedetti @Betto94
 
@@ -8,7 +8,7 @@ Trasformiamo un modello in un altro, ma per farlo ci occorre i metamodelli di en
 
 In questo esercizio la source è Families e il target è Person.
 
-- Nella cartella Metamodels abbiamo i metamodelli di Families.ecore e Persons.ecore. Notare che le modifiche sono state effettuate in proprietà e sono svariate.
+I metamodelli sono Families.ecore e Persons.ecore. Notare che le modifiche sono state effettuate in proprietà e sono svariate, servono per essere conformi al modello.
 
 ## Il codice ATL si occupa della transformazione
 
